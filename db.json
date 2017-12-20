@@ -4,19 +4,37 @@
       "price": 9000,
       "status": "blocked",
       "open_date": "2017-12-20",
-      "close_date": "2017-12-25",
+      "close_date": "2017-12-23",
       "booked_on": "airbnb",
       "guest_full_name": "Hanni Wang",
-      "reservation_id": 26
+      "reservation_id": 1
     },
     {
       "price": 9000,
       "status": "blocked",
       "open_date": "2017-12-20",
-      "close_date": "2017-12-25",
+      "close_date": "2017-12-23",
       "booked_on": "booking_com",
       "guest_full_name": "Stevie Wonder",
-      "reservation_id": 122
+      "reservation_id": 2
+    },
+    {
+      "price": 9000,
+      "status": "blocked",
+      "open_date": "2017-12-25",
+      "close_date": "2017-12-29",
+      "booked_on": "airbnb",
+      "guest_full_name": "Hanni Wang",
+      "reservation_id": 3
+    },
+    {
+      "price": 9000,
+      "status": "blocked",
+      "open_date": "2017-12-27",
+      "close_date": "2017-12-30",
+      "booked_on": "booking_com",
+      "guest_full_name": "Stevie Wonder",
+      "reservation_id": 4
     },
     {
       "price": 9000,
