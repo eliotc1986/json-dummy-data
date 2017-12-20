@@ -4,127 +4,37 @@
       "price": 9000,
       "status": "blocked",
       "open_date": "2017-12-20",
-      "close_date": "2017-12-20",
+      "close_date": "2017-12-25",
       "booked_on": "airbnb",
       "guest_full_name": "Hanni Wang",
       "reservation_id": 26
     },
     {
-      "price": 5555,
-      "status": "free",
-      "open_date": "2017-12-21",
-      "close_date": "2017-12-21"
+      "price": 9000,
+      "status": "blocked",
+      "open_date": "2017-12-20",
+      "close_date": "2017-12-25",
+      "booked_on": "booking_com",
+      "guest_full_name": "Stevie Wonder",
+      "reservation_id": 26
     },
     {
       "price": 9000,
       "status": "blocked",
       "open_date": "2017-12-22",
-      "close_date": "2017-12-22",
-      "booked_on": "airbnb",
-      "guest_full_name": "Unavailable Date",
-      "reservation_id": 30
-    },
-    {
-      "price": 4444,
-      "status": "free",
-      "open_date": "2017-12-23",
-      "close_date": "2017-12-23"
+      "close_date": "2017-12-25",
+      "booked_on": "booking_com",
+      "guest_full_name": "Stevie Wonder",
+      "reservation_id": 26
     },
     {
       "price": 9000,
-      "status": "free",
-      "open_date": "2017-12-24",
-      "close_date": "2017-12-26"
-    },
-    {
-      "price": 4444,
-      "status": "blocked",
-      "open_date": "2017-12-27",
-      "close_date": "2017-12-27",
-      "booked_on": "airbnb",
-      "guest_full_name": "Unavailable Date",
-      "reservation_id": 31
-    },
-    {
-      "price": 4444,
-      "status": "free",
-      "open_date": "2017-12-28",
-      "close_date": "2017-12-28"
-    },
-    {
-      "price": 9000,
-      "status": "blocked",
-      "open_date": "2017-12-29",
-      "close_date": "2017-12-31",
-      "booked_on": "airbnb",
-      "guest_full_name": "Hanni Wang",
-      "reservation_id": 27
-    },
-    {
-      "price": 1000,
-      "status": "free",
-      "open_date": "2018-01-01",
-      "close_date": "2018-01-01"
-    },
-    {
-      "price": 9000,
-      "status": "free",
-      "open_date": "2018-01-02",
-      "close_date": "2018-01-02"
-    },
-    {
-      "price": 10000,
-      "status": "requested",
-      "open_date": "2018-01-03",
-      "close_date": "2018-01-03",
-      "booked_on": null,
-      "guest_full_name": "Jimi Hendrix",
-      "reservation_id": 42
-    },
-    {
-      "price": 10000,
-      "status": "free",
-      "open_date": "2018-01-04",
-      "close_date": "2018-01-04"
-    },
-    {
-      "price": 10000,
-      "status": "blocked",
-      "open_date": "2018-01-05",
-      "close_date": "2018-01-05",
-      "booked_on": "airbnb",
-      "guest_full_name": "Unavailable Date",
-      "reservation_id": 41
-    },
-    {
-      "price": 9000,
-      "status": "free",
-      "open_date": "2018-01-06",
-      "close_date": "2018-01-06"
-    },
-    {
-      "price": 7777,
       "status": "reserved",
-      "open_date": "2018-01-07",
+      "open_date": "2018-01-01",
       "close_date": "2018-01-08",
       "booked_on": null,
       "guest_full_name": "Jimi Hendrix",
       "reservation_id": 43
-    },
-    {
-      "price": 9000,
-      "status": "reserved",
-      "open_date": "2018-01-09",
-      "close_date": "2018-01-09",
-      "booked_on": null,
-      "guest_full_name": "Jimi Hendrix",
-      "reservation_id": 43
-    },
-    {
-      "price": 9000,
-      "status": "free",
-      "open_date": "2018-01-10",
-      "close_date": "2018-01-10"
     }
   ]
 }
