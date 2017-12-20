@@ -23,8 +23,8 @@
       "status": "blocked",
       "open_date": "2017-12-23",
       "close_date": "2017-12-24",
-      "booked_on": "airbnb",
-      "guest_full_name": "Jamese Dean",
+      "booked_on": "homeaway",
+      "guest_full_name": "James Dean",
       "reservation_id": 1
     },
     {
