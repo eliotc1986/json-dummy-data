@@ -20,15 +20,6 @@
     },
     {
       "price": 9000,
-      "status": "blocked",
-      "open_date": "2017-12-22",
-      "close_date": "2017-12-25",
-      "booked_on": "booking_com",
-      "guest_full_name": "Stevie Wonder",
-      "reservation_id": 26
-    },
-    {
-      "price": 9000,
       "status": "reserved",
       "open_date": "2018-01-01",
       "close_date": "2018-01-08",
