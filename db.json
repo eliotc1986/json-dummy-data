@@ -47,8 +47,8 @@
     },
     {
       "price": 9000,
-      "status": "reserved",
-      "open_date": "2018-01-01",
+      "status": "requested",
+      "open_date": "2018-01-05",
       "close_date": "2018-01-08",
       "booked_on": null,
       "guest_full_name": "Jimi Hendrix",
