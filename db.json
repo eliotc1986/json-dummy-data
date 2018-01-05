@@ -3,8 +3,8 @@
     {
       "price": 9000,
       "status": "blocked",
-      "open_date": "2017-12-20",
-      "close_date": "2017-12-23",
+      "open_date": "2017-01-20",
+      "close_date": "2017-01-23",
       "booked_on": "airbnb",
       "guest_full_name": "Hanni Wang",
       "reservation_id": 1
@@ -12,8 +12,8 @@
     {
       "price": 9000,
       "status": "blocked",
-      "open_date": "2017-12-20",
-      "close_date": "2017-12-23",
+      "open_date": "2017-01-20",
+      "close_date": "2017-01-23",
       "booked_on": "booking_com",
       "guest_full_name": "Stevie Wonder",
       "reservation_id": 2
@@ -21,8 +21,8 @@
     {
       "price": 9000,
       "status": "blocked",
-      "open_date": "2017-12-23",
-      "close_date": "2017-12-24",
+      "open_date": "2017-01-23",
+      "close_date": "2017-01-24",
       "booked_on": "homeaway",
       "guest_full_name": "James Dean",
       "reservation_id": 1
@@ -30,8 +30,8 @@
     {
       "price": 9000,
       "status": "blocked",
-      "open_date": "2017-12-25",
-      "close_date": "2017-12-29",
+      "open_date": "2017-01-25",
+      "close_date": "2017-01-29",
       "booked_on": "airbnb",
       "guest_full_name": "Hanni Wang",
       "reservation_id": 3
@@ -39,8 +39,8 @@
     {
       "price": 9000,
       "status": "blocked",
-      "open_date": "2017-12-27",
-      "close_date": "2017-12-30",
+      "open_date": "2017-01-27",
+      "close_date": "2017-01-30",
       "booked_on": "booking_com",
       "guest_full_name": "Stevie Wonder",
       "reservation_id": 4
