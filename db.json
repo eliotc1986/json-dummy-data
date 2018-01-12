@@ -1,40 +1,39 @@
 {
   "event": [
     {
-      "price": 9000,
-      "status": "requested",
-      "open_date": "2018-01-08",
-      "close_date": "2018-01-11",
-      "booked_on": null,
-      "guest_full_name": "Jimi Hendrix",
-      "reservation_id": 43
+      "price": 1000,
+      "status": "closed",
+      "open_date": "2018-01-12",
+      "close_date": "2018-01-13"
     },
     {
-      "price": 9000,
+      "price": 1000,
       "status": "blocked",
-      "open_date": "2018-01-16",
-      "close_date": "2018-01-20",
+      "open_date": "2018-01-14",
+      "close_date": "2018-01-14",
       "booked_on": "airbnb",
-      "guest_full_name": "Hanni Wang",
-      "reservation_id": 1
+      "guest_full_name": "Unavailable Date",
+      "reservation_id": 955
     },
     {
-      "price": 9000,
-      "status": "blocked",
+      "price": 1000,
+      "status": "requested",
+      "open_date": "2018-01-15",
+      "close_date": "2018-01-19"
+    },
+    {
+      "price": 1000,
+      "status": "free",
+      "open_date": "2018-01-20",
+      "close_date": "2018-03-31"
+    },
+    {
+      "status": "closed",
       "open_date": "2018-01-16",
-      "close_date": "2018-01-20",
-      "booked_on": "booking_com",
-      "guest_full_name": "Stevie Wonder",
-      "reservation_id": 2
-    },
-    {
-      "price": 9000,
-      "status": "blocked",
-      "open_date": "2018-01-21",
-      "close_date": "2018-01-25",
-      "booked_on": "homeaway",
-      "guest_full_name": "James Dean",
-      "reservation_id": 3
+      "close_date": "2018-01-18",
+      "booked_on": "booking.com",
+      "guest_full_name": "Unknown Name",
+      "event_id": 5
     }
   ]
 }
