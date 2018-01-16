@@ -3,7 +3,7 @@
     {
       "price": 1000,
       "status": "closed",
-      "open_date": "2018-01-15",
+      "open_date": "2018-01-16",
       "close_date": "2018-01-17"
     },
     {
@@ -43,24 +43,54 @@
       "price": 1000,
       "status": "requested",
       "open_date": "2018-01-28",
-      "close_date": "2018-01-30"
+      "close_date": "2018-01-30",
+      "booked_on": null,
+      "guest_full_name": "test guest",
+      "reservation_id": 905
+    },
+    {
+      "price": 1000,
+      "status": "blocked",
+      "open_date": "2018-01-31",
+      "close_date": "2018-02-01",
+      "booked_on": "airbnb",
+      "guest_full_name": "Hyakuren Taro",
+      "reservation_id": 908
     },
     {
       "price": 1000,
       "status": "free",
-      "open_date": "2018-01-31",
+      "open_date": "2018-02-02",
       "close_date": "2018-02-06"
     },
     {
       "price": 1000,
-      "status": "closed",
+      "status": "blocked",
       "open_date": "2018-02-07",
-      "close_date": "2018-02-10"
+      "close_date": "2018-02-09",
+      "booked_on": "airbnb",
+      "guest_full_name": "Date Unavailable",
+      "reservation_id": 906
     },
     {
       "price": 1000,
       "status": "free",
+      "open_date": "2018-02-10",
+      "close_date": "2018-02-10"
+    },
+    {
+      "price": 1000,
+      "status": "blocked",
       "open_date": "2018-02-11",
+      "close_date": "2018-02-11",
+      "booked_on": "airbnb",
+      "guest_full_name": "Date Unavailable",
+      "reservation_id": 907
+    },
+    {
+      "price": 1000,
+      "status": "free",
+      "open_date": "2018-02-12",
       "close_date": "2018-02-13"
     },
     {
@@ -71,8 +101,53 @@
     },
     {
       "price": 1000,
-      "status": "free",
+      "status": "requested",
       "open_date": "2018-03-11",
+      "close_date": "2018-03-17",
+      "booked_on": null,
+      "guest_full_name": "test guest",
+      "reservation_id": 909
+    },
+    {
+      "price": 1000,
+      "status": "requested",
+      "open_date": "2018-03-18",
+      "close_date": "2018-03-19",
+      "booked_on": null,
+      "guest_full_name": "test guest",
+      "reservation_id": 910
+    },
+    {
+      "price": 3000,
+      "status": "requested",
+      "open_date": "2018-03-20",
+      "close_date": "2018-03-20",
+      "booked_on": null,
+      "guest_full_name": "test guest",
+      "reservation_id": 910
+    },
+    {
+      "price": 1000,
+      "status": "requested",
+      "open_date": "2018-03-21",
+      "close_date": "2018-03-21",
+      "booked_on": null,
+      "guest_full_name": "test guest",
+      "reservation_id": 910
+    },
+    {
+      "price": 2000,
+      "status": "requested",
+      "open_date": "2018-03-22",
+      "close_date": "2018-03-24",
+      "booked_on": null,
+      "guest_full_name": "test guest",
+      "reservation_id": 910
+    },
+    {
+      "price": 1000,
+      "status": "free",
+      "open_date": "2018-03-25",
       "close_date": "2018-04-01"
     },
     {
@@ -95,35 +170,35 @@
     },
     {
       "status": "closed",
-      "open_date": "2018-01-14",
-      "close_date": "2018-01-14",
+      "open_date": "2018-01-21",
+      "close_date": "2018-01-23",
       "booked_on": "airbnb",
       "guest_full_name": "Unavailable Date",
-      "event_id": 83
+      "event_id": 381
     },
     {
       "status": "closed",
-      "open_date": "2018-02-02",
-      "close_date": "2018-02-26",
+      "open_date": "2018-01-28",
+      "close_date": "2018-01-29",
       "booked_on": "airbnb",
       "guest_full_name": "Unavailable Date",
-      "event_id": 377
+      "event_id": 382
     },
     {
       "status": "closed",
-      "open_date": "2018-02-09",
-      "close_date": "2018-02-06",
+      "open_date": "2018-02-15",
+      "close_date": "2018-02-17",
       "booked_on": "airbnb",
-      "guest_full_name": "Unavailable Date",
-      "event_id": 378
+      "guest_full_name": "Taro Hyakuren",
+      "event_id": 385
     },
     {
       "status": "closed",
-      "open_date": "2018-01-16",
-      "close_date": "2018-01-18",
-      "booked_on": "booking.com",
+      "open_date": "2018-02-20",
+      "close_date": "2018-02-21",
+      "booked_on": "airbnb",
       "guest_full_name": "Unknown Name",
-      "event_id": 84
+      "event_id": 386
     }
   ]
 }
